@@ -7,3 +7,5 @@ Phytohopthora infestans, Kuzey Avrupa’nın serin nemli bölgelerinde hastalık
 Ülkemizde hastalık daha çok Karadeniz de yaygındır. Bolu, Ordu, Trabzon, Gümüşhane, Rize ve Çorum illerinde hastalık her yıl görülebilir. Patates tarımının yapıldığı Doğu ve İç Anadolu Bölgesindeki illerin bahar ve yaz aylarında yağış alan kesimlerinde hastalığın yüksek olma ihtimali çoktur.
 
 Amaç yapay zeka kullanarak patates bitkisinin hastalıklı olup olmadığı, hastalıklıysa bu iki tip hastalıktan hangisine ait olduğunu tespit etmeye çalışarak patates çiftçisine destek olmaktır. 
+
+![image](https://user-images.githubusercontent.com/72580629/226187664-f1ec3160-5997-4d1a-9612-41e4480e226b.png)
